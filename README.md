@@ -11,6 +11,10 @@ Hello, I'm Guilherme Moreno, 29 yrs. I'm a Front-end developer
 <br>
 Also studying back-end development
 <br>
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6bebC_d4eWwJ-x9ntqDuT94TvOgumSBVWHg&s" width="80">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" width="80">
+<br>
 
 ### Conect with me:
 <p>
